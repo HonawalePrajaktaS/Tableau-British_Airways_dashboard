@@ -31,7 +31,7 @@ The dashboard provides actionable insights into customer satisfaction, service q
 
 ## 📂 Project Structure  
 📦 British-Airways-Review-Dashboard
-┣ 📂 data # Raw & cleaned data
-┣ 📂 dashboard # Dashboard file (Power BI / Tableau / Excel / Streamlit)
-┣ 📂 images # Screenshots of dashboard
-┣ 📜 README.md # Project documentation
+**┣ 📂 data # Raw & cleaned data
+**┣ 📂 dashboard # Dashboard file (Power BI / Tableau / Excel / Streamlit)
+**┣ 📂 images # Screenshots of dashboard
+**┣ 📜 README.md # Project documentation
