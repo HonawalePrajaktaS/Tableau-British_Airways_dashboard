@@ -31,7 +31,7 @@ The dashboard provides actionable insights into customer satisfaction, service q
 
 ## 📂 Project Structure  
 ## 📦 British-Airways-Review-Dashboard
-- ┣ 📂 data
-- ┣ 📂 dashboard
-- ┣ 📂 images
-- ┣ 📜 README.md
+- 📂 data
+- 📂 dashboard
+- 📂 images
+- 📜 README.md
