@@ -19,20 +19,20 @@ The dashboard provides actionable insights into customer satisfaction, service q
 ✅ **Service Category Analysis** – Comfort, staff service, food & beverages, entertainment, and value for money.  
 ✅ **Trend Analysis** – Positive vs. negative reviews over time.  
 ✅ **Class & Traveler Type Filters** – Compare experiences across different passenger groups.  
-✅ **Geographic Insights** – Reviews segmented by region/country (if data available).  
+✅ **Geographic Insights** – Reviews segmented by region/country.  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Data Source:** British Airways customer review dataset *(e.g., Kaggle, AirlineQuality.com)*  
-- **Data Cleaning:** Python / Excel *(update as per your work)*  
-- **Dashboard Development:** Power BI / Tableau / Excel / Streamlit *(update accordingly)*  
+- **Data Source:** British Airways customer review dataset  
+- **Data Cleaning:** Python  
+- **Dashboard Development:** Tableau
 
 ---
 
 ## 📂 Project Structure  
 📦 British-Airways-Review-Dashboard
-┣ 📂 data # Raw & cleaned data
-┣ 📂 dashboard # Dashboard file (Power BI / Tableau / Excel / Streamlit)
-┣ 📂 images # Screenshots of dashboard
-┣ 📜 README.md # Project documentation
+- 📂 data 
+- 📂 dashboard
+- 📂 images 
+- 📜 README.md
